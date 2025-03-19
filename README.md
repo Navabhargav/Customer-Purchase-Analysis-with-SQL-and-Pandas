@@ -9,6 +9,7 @@
 ## 📌 **Project Overview**
 This project focuses on analyzing customer purchases using **SQL and Python (Pandas)**.  
 It involves:
+
 ✔ Cleaning and formatting SQL queries for better readability.  
 ✔ Translating the SQL query logic into **Python using Pandas**.  
 ✔ Filtering high-value purchases while ensuring product pricing is applied within a valid time frame.  
