@@ -27,6 +27,7 @@ def aggregate_results(df):
         .agg(total=("total_cost", "sum"))
         .sort_values(by="total", ascending=False)
     )
+    
 
 def main():
     cp, pp = load_and_prepare_data()
